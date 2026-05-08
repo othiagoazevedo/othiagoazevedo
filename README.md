@@ -83,18 +83,6 @@ Estou em transição de carreira para o desenvolvimento de software, mas com uma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades, parcerias e bons papos sobre tecnologia, IA aplicada e automação de processos.
