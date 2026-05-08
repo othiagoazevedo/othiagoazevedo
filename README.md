@@ -52,18 +52,6 @@ Estou em transição de carreira para o desenvolvimento de software, mas com uma
 
 ## 💼 Projetos em destaque
 
-### 🩺 Clínica Cardio Bot
-> Chatbot de WhatsApp que automatiza o agendamento de consultas para uma clínica médica brasileira.
-
-- **IA conversacional** com Google Gemini 2.5 Flash Lite + **Function Calling nativo**
-- Integração direta com o CRM **Clínica nas Nuvens**
-- Arquitetura híbrida (regras determinísticas + busca fuzzy com Fuse.js) para garantir precisão em dados sensíveis como preços e horários — evitando hallucinations em informações que não podem errar
-- Tratamento robusto de variações de linguagem natural dos pacientes
-
-**Stack:** `Node.js` · `Gemini API` · `WhatsApp API` · `Fuse.js`
-
----
-
 ### 🚢 Baute v2
 > Plataforma de bot pronta para produção, com infraestrutura profissional de deploy.
 
